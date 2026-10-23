@@ -1,1 +1,5 @@
-streamlit>=1.40\npandas>=2.0\nnumpy>=1.26\nplotly>=5.20\nopenai>=1.50\n
+streamlit>=1.40
+pandas>=2.0
+numpy>=1.26
+plotly>=5.20
+openai>=1.50
